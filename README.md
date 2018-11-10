@@ -1,6 +1,6 @@
 # Structuring Machine Learning Projects
 ---
-Course: [Structuring Machine Learning Projects](https://www.coursera.org/learn/neural-networks-deep-learning)
+Course: [Structuring Machine Learning Projects](https://www.coursera.org/learn/machine-learning-projects/home/welcome)
 
 Instructor: Andrew Ng, Kian Katanforoosh, Younes Bensouda Mourri
 
@@ -17,12 +17,12 @@ This is part 3 of the Deep Learning course.
 ---
 
 ## Sections:
-1. [Introduction to ML Strategy](https://github.com/alexguanga/coursera-neuralnetworks-and-deeplearning/blob/master/01_IntroductionToDeepLearning.ipynb)
-2. [Setting Up Your Goal](https://github.com/alexguanga/coursera-neuralnetworks-and-deeplearning/commit/7ca8cf4161c07dec33e60972b6f8829190950a60)
-3. [Comparing to Human-Level Performance](https://github.com/alexguanga/coursera-neuralnetworks-and-deeplearning/blob/master/03_Python%26Vectorization.ipynb)
-4. [Error Analysis](https://github.com/alexguanga/coursera-neuralnetworks-and-deeplearning/blob/master/04_ShallowNetwork.ipynb)
-5. [Mismatched Training and Dev/Test Sets](https://github.com/alexguanga/coursera-neuralnetworks-and-deeplearning/blob/master/05_DeepNeuralNetwork.ipynb)
-6. [Learning From Multiple Tasks](https://github.com/alexguanga/coursera-neuralnetworks-and-deeplearning/blob/master/04_ShallowNetwork.ipynb)
-7. [End-to-End Deep Learning](https://github.com/alexguanga/coursera-neuralnetworks-and-deeplearning/blob/master/05_DeepNeuralNetwork.ipynb)
+1. [Introduction to ML Strategy](https://github.com/alexguanga/courserera-structure-ml-projects/blob/master/01_Intro_ML_Strategy.ipynb)
+2. [Setting Up Your Goal](https://github.com/alexguanga/courserera-structure-ml-projects/blob/master/02_Setting_Your_Goal.ipynb)
+3. [Comparing to Human-Level Performance](https://github.com/alexguanga/courserera-structure-ml-projects/blob/master/03_Comparing_Human_Level_Performance.ipynb)
+4. [Error Analysis](https://github.com/alexguanga/courserera-structure-ml-projects/blob/master/04_ErrorAnalysis.ipynb)
+5. [Mismatched Training and Dev/Test Sets](https://github.com/alexguanga/courserera-structure-ml-projects/blob/master/05_MismatchedTrainingAndDev-TestSet.ipynb)
+6. [Learning From Multiple Tasks](https://github.com/alexguanga/courserera-structure-ml-projects/blob/master/06_LearningFromMultipleTasks.ipynb)
+7. [End-to-End Deep Learning](https://github.com/alexguanga/courserera-structure-ml-projects/blob/master/07_EndToEndDeepLearning.ipynb)
 
 ---
